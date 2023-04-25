@@ -1,5 +1,5 @@
-25.04.2023
-
+25.04.2023 tuesday
+21:34
 # Instructions for working with GIT #
 
 1. add "File name" - добавляет файлу версионность(обновляет после внесения изменений).
