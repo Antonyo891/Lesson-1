@@ -8,8 +8,8 @@
 4. init - Create an empty Git repository or reinitialize an existing one(создает локальный репозиторий в нашей папке)
 5. diff - Show changes between commits, commit and working tree, etc(различия между сохраненной версией и текущей)  
 5. log - Show commit logs (перечень сохраненных версий)
-7. log -- oneline - перечень сохраненных версий более удобно ![пример](/25.04.2023_ANTON_BAIMURZAEV/oneline.bmp) 
-<image src="25.04.2023_ANTON_BAIMURZAEV/oneline.jpg" alt="oneline">.
+7. log -- oneline - перечень сохраненных версий более удобно ![пример](/oneline.jpg) 
+<image src="oneline.jpg" alt="oneline">.
 7. checkout - выбор сохраненной версии.
 7. chekout master - возвращение к текущему (актуальному) состоянию.
 8. status  -  Show the working tree status (показывает состояние процесса в отслеживаемой папке)
