@@ -8,5 +8,6 @@
 
 * 3. git commit - Record changes to the repository(сохраняет изменения в репозитории + можно оставить комментарий -m"Message")
 
-* 4. git init - Create an empty Git repository or reinitialize an existing one(создает локальный епозиторий в нашей папке)
- 
+* 4. git init - Create an empty Git repository or reinitialize an existing one(создает локальный репозиторий в нашей папке)
+
+* 5.  
