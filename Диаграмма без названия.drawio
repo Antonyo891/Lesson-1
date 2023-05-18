@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T06:41:09.014Z" agent="Mozilla/5.0 (Linux; Android 9) AppleWebKit/537.36 (KHTML, like Gecko) YaBrowser/23.3.4.603 YaBrowser/23.3.4.603 Yowser/2.5 Mobile Safari/537.36" etag="6gUve0soQdDf6TDRJSic" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T06:43:34.493Z" agent="Mozilla/5.0 (Linux; Android 9) AppleWebKit/537.36 (KHTML, like Gecko) YaBrowser/23.3.4.603 YaBrowser/23.3.4.603 Yowser/2.5 Mobile Safari/537.36" etag="8nfuMzcmZKi04l3tblAX" version="21.3.2" type="github">
   <diagram name="Страница 1" id="uxWOsyEfU2r70jMS017q">
     <mxGraphModel dx="1433" dy="1069" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
             <mxPoint x="4.918367346938794" y="126" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PlK3aGXqDywmeAIuR_eo-6" value="Name&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="PlK3aGXqDywmeAIuR_eo-6" value="User Name&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-76.5" y="55" width="165" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PlK3aGXqDywmeAIuR_eo-10" value="end" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -24,7 +24,7 @@
         <mxCell id="PlK3aGXqDywmeAIuR_eo-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.502;exitY=0.86;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PlK3aGXqDywmeAIuR_eo-12" target="PlK3aGXqDywmeAIuR_eo-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PlK3aGXqDywmeAIuR_eo-12" value="Hello Name" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="PlK3aGXqDywmeAIuR_eo-12" value="Hello &quot;User Name&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-64.5" y="125" width="141" height="80" as="geometry" />
         </mxCell>
       </root>
